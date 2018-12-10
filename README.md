@@ -1,6 +1,6 @@
 # Control de empleados
 Para tener este proyecto en su entorno local puede:
- * Clonar este repositorio desde git `git clone github.com/ilichh1/control-empleados-ut`
+ * Clonar este repositorio desde git `git clone github.com/ilichh1/control-empleados-utj`
  * Descargar un ZIP desde la esquina superior derecha con el botón verde en la opción 'Download as ZIP'
 
 ## Este proyecto muestra los conceptos básicos de la programación orientada a objetos:
